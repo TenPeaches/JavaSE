@@ -1,2 +1,2 @@
 # JavaSE
-学习Java基础的代码
+Java基础的练习代码
